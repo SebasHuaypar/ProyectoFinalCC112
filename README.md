@@ -9,3 +9,6 @@ Las carpetas PARTE1 PARTE2 y PARTE3 contienen códigos para descargarlos y ejecu
 Haga clic en el siguiente botón para abrir y ejecutar este proyecto en Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebasHuaypar/ProyectoFinalCC112/blob/main/ProyectoFinal_SebastianHuaypar.ipynb)
+
+
+**Calificación Final: 19**
